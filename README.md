@@ -2,7 +2,7 @@
 
 Data Scientist and AI enthusiast. Building the future with data. Let's connect!
 
-**Email:** [riandy.rakotonrina@gmail.com](mailto:riandy.rakotonrina@gmail.com)
+**Email:** [riandy.rakotonirina@gmail.com](mailto:riandy.rakotonirina@gmail.com)
 
 ### 🛠️ Tech Stack & Tools
 
