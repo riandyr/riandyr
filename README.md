@@ -17,6 +17,11 @@ I'm a passionate **Data Scientist** who loves turning data into insights and bui
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
+#### 🤖 Generative AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-005571?style=for-the-badge&logo=ollama&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF69B4?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+
 #### 🛢️ Data Engineering & Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,4 +52,3 @@ I'm a passionate **Data Scientist** who loves turning data into insights and bui
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 🚀 Let's build something amazing with data!
-
