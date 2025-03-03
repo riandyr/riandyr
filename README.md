@@ -1,3 +1,12 @@
+### Hi! I'm Riandy
+
+Data Science and AI enthusiast. Building the future with data. Let's connect!
+
+**Email:** [riandy.rakotonrina@gmail.com](mailto:riandy.rakotonrina@gmail.com)
+
+### 🛠️ Tech Stack & Tools
+
+... (rest of your README)
 ### 🛠️ Tech Stack & Tools
 
 #### 📊 Core Data Science
